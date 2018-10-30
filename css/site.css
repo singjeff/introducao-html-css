@@ -130,6 +130,7 @@ main {
 
 .minha-foto {
     position: absolute;
+    width: 20%;
     top: 0;
     right: 0;
 }
